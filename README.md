@@ -5,3 +5,6 @@
  
  Inspiration was drawn from the QuantConnect community
  Licenses for software used can be found in the bibliography section of the thesis
+
+
+ Feel free to reach out to jbohne822@gmai.com with any questions
