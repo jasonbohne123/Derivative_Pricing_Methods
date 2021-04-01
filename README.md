@@ -1,6 +1,7 @@
 # Option_Pricing_Methods
- Repository for Undergraduate Thesis: The Evaluation, Comparison, Selection, and Implementation of Derivative Pricing Methods into a Trading Algorithm
+ Repository for undergraduate thesis: The Evaluation, Comparison, Selection, and Implementation of Derivative Pricing Methods into a Trading Algorithm
  
- Find attached a Main File, Alpha Model Class, and Research Notebook used in the thesis.
+ Find attached the thesis, presentation, and software used in the thesis: main file, alpha model class, and research notebook
  
- Inspiration was drawn from the QuantConnect Community 
+ Inspiration was drawn from the QuantConnect community
+ Licenses for software used can be found in the bibliography section of the thesis
