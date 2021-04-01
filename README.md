@@ -4,6 +4,7 @@
  Find attached the thesis, presentation, and software used in the thesis: main file, alpha model class, and research notebook
  
  Inspiration was drawn from the QuantConnect community
+ 
  Licenses for software used can be found in the bibliography section of the thesis
 
 
