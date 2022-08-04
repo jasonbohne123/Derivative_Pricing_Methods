@@ -1,4 +1,4 @@
-# Option_Pricing_Methods
+# Derivative_Pricing_Methods
  Repository for undergraduate project: An Analysis of Derivative Pricing Methods
  
  Find attached the project, presentation, and software used: main file, alpha model class, and research notebook
